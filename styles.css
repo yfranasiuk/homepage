@@ -219,7 +219,7 @@ body {
   margin-bottom: 10px;
 }
 
-.experiences__company-project-responsibilities {
+.experiences__company-project-responsibilities, .skills__list{
   color: var(--secondary-text-color);
   padding-left: 20px;
 }
